@@ -1,7 +1,7 @@
 # PulpitApp.co
 ## A web application to create sermon outlines, access them anywhere, and preach your heart out.
 
-My name is [Pastor Estevan Montoya}(http://www.estevanmontoya.com), of the [Mountain View Baptist Church](http://www.MVBCTaos.org) in Taos, NM.
+My name is [Pastor Estevan Montoya](http://www.estevanmontoya.com), of the [Mountain View Baptist Church](http://www.MVBCTaos.org) in Taos, NM.
 
 God has given me the ability to make things for churches and to help God's men in their local church.
 
